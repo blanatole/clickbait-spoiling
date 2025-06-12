@@ -1,0 +1,25 @@
+# Results and outputs
+results_*/
+*predictions*.json
+*evaluation*.json
+*.log
+
+# Model files
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+env/
+
+# System
+.DS_Store
+Thumbs.db 
